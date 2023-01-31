@@ -2,4 +2,4 @@
 przykładowe zdanie;
 drugie zdanie;
 trzecie zdanie;
-super kreatywne zdanie
+czwarte zdanie w piątej linijce
